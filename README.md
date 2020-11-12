@@ -11,3 +11,6 @@ https://gab.com
 
 ## News
 https://www.zerohedge.com/
+
+## Search engine
+https://duckduckgo.com/
