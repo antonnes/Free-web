@@ -1,5 +1,5 @@
 # Free-web
-Collection of non-biased web services. For free Internet, without political correctness.
+Collection of non-biased web services. For free Internet, without political correctness, leftist and globallists.
 
 ## Video sharing
 https://www.bitchute.com/<br/>
