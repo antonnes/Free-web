@@ -10,8 +10,8 @@ https://lbry.com/<br/>
 https://gab.com
 
 ## News
-https://www.zerohedge.com/
-https://www.theepochtimes.com/
+https://www.zerohedge.com/ <br/>
+https://www.theepochtimes.com/ <br/>
 https://summit.news/
 
 ## Search engines
