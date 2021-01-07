@@ -11,6 +11,8 @@ https://gab.com
 
 ## News
 https://www.zerohedge.com/
+https://www.theepochtimes.com/
+https://summit.news/
 
-## Search engine
+## Search engines
 https://duckduckgo.com/
