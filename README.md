@@ -7,7 +7,8 @@ https://bittubers.com
 
 ## Social networks
 https://lbry.com/<br/>
-https://gab.com
+https://gab.com <br/>
+https://parler.com/auth/access
 
 ## News
 https://www.zerohedge.com/ <br/>
