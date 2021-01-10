@@ -3,7 +3,7 @@ Collection of non-biased web services. For free Internet, without political corr
 
 ## Video sharing
 https://www.bitchute.com/<br/>
-https://bittubers.com
+https://bittubers.com <br>
 https://tv.gab.com/
 
 ## Social networks
