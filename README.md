@@ -9,7 +9,7 @@ https://tv.gab.com/
 ## Social networks
 https://lbry.com/<br/>
 https://gab.com <br/>
-https://parler.com/auth/access
+https://parler.com/auth/access <br/>
 https://github.com/movim/movim
 
 ## News
